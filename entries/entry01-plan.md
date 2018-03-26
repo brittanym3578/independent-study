@@ -7,6 +7,7 @@ Incorporating CSS to a website really makes it visually entertaining so I figure
 ## Motivation
 Since I usually scroll around on the internet I was able to realize a variety of new and cool effects that many websites are using which made me wonder, how?
 I instantly thought that it would be really nice if someone would say that about my website someday and would inspire the public to create a website of their own using SASS in order to make it more visually interesting/entertaining.
+
 <img src="https://designshack.net/wp-content/uploads/sassvstylus-1.jpg"/>
 
 ## Coding Process
