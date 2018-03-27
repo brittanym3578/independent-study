@@ -10,6 +10,7 @@ I instantly thought that it would be really nice if someone would say that about
 
 <img src="https://designshack.net/wp-content/uploads/sassvstylus-1.jpg"/>
 Photo Credit: http://sass-lang.com/guide
+
 ## Coding Process
 SASS has its own way of style to write CSS with a .sass extension and removing curly brackets while styling your website.
 Sass actually takes the concept of nesting one step further and allows you to save yourself the trouble of typing repetitive property names. 
@@ -19,7 +20,9 @@ Now, I questioned myself and wanted to know what made SASS different and I reali
 - The variable sign in sass is ! instead of $ 
 - The assignment sign in sass is = instead of : 
 <img src= "https://designshack.net/wp-content/uploads/sassvstylus-9.jpg"/>
+
 Photo Credit: http://sass-lang.com/guide
+
 ## Takeaways
 
 Here are some of the takeaways that I had throughout my independent study for SASS
