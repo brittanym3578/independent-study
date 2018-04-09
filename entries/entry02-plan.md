@@ -81,3 +81,6 @@ take notes while I was practicing specific lessons.
 #### 3. Codecademy is very helpful
 - You are new to all of this, start from the bottom and work your way up. Try the examples and input 
 the things you already know. This will help you learn the basics and have a sense of what you will be doing.
+
+## Resources
+- https://www.codecademy.com/learn/learn-sass
