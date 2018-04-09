@@ -7,8 +7,10 @@ In order to install SASS into your workspace terminal , you type in `gem install
 If you are unsure whether SASS is installed, type in `sass -v`.
 If `sass -v` does not return `Sass 3.4.23 (Selective Steve)`, then SASS is not installed in your
 workspace terminal. In case `gem install sass` does not work at all, then try `sudo gem install sass`.
+
 ### Creating a Partial File 
 A Partial Sass file is a file that has small pieces of SCSS. In order to create a partial sass file, you put an underscore before the name of your file. For example: _partial.scss
+
 ## Nesting Properties
 In SCSS, selectors are not the only option to nesting, by adding ```:``` after the name of the property can also nest CSS properties.
 ```
