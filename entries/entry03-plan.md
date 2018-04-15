@@ -7,6 +7,7 @@ You can make a SCSS file from partial SCSS files. To use a partial SCSS file in
 another SCSS file, you use `@import` and next to it write the name of the partial
 file in single quotes. When a SCSS file that contains `@import` gets turn into a 
 CSS file, the CSS file will have the properties of the partial file.
+
 #### Example
 
 ##### SCSS
