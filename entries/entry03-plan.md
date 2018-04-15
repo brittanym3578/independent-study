@@ -2,6 +2,7 @@
 ## New Discoveries with SASS
 <img src = "https://alistapart.com/d/_made/d/ALA340_SASS_300_960_501_81.jpg"/>
 Photo Credit: https://alistapart.com/article/getting-started-with-sass
+
 ## Importing 
 You can make a SCSS file from partial SCSS files. To use a partial SCSS file in
 another SCSS file, you use `@import` and next to it write the name of the partial
