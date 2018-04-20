@@ -43,7 +43,11 @@ my CSS file.
 Before you install compass in your workspace, you first need to install SASS and cd to your project folder. After that, use `gem install compass`. Once you install compass, you will 
 get two folders in your project folder. One folder has SCSS files and the other folder has CSS files.
 
-![Example](../images/img-1.png)
+[Example](../images/img-1.png)
+
+### Getting the latest changes from SCSS using Compass
+You need to cd into your new CSS folder if you want a CSS file to get the latest changes. When you are in your CSS folder, use `compass watch example.css` to track any SCSS file of the same name 
+to give changes to the CSS file.
 
 ### <strong>Takeaways</strong>
 <ul>
@@ -53,4 +57,3 @@ get two folders in your project folder. One folder has SCSS files and the other 
 
 <li><b>Simplicity.</b> If you get your code to work how you want, find ways to improve. It is not only beneficial for you to make sure the concepts being taught are well grasped by you, but it also prevents long tedious code. Also, by making the code easier, it gives you more working room . In the beginning , i was using several lines just to get the music to appear. Now, we can add effects and breaks using looping.</li>
 </ul>
-http://jsbin.com/kojamakowu/edit?html,css,output
