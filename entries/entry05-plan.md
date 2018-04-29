@@ -2,6 +2,7 @@
 ## Implementation
 <img src = "https://media.giphy.com/media/FUQQ3WPJZEULe/giphy.gif"/>
 Photo Credit: https://giphy.com/gifs/inside-out-gif-FUQQ3WPJZEULe
+
 ## Check In 
 I have recently been trying to form ideas on what to build on my website and how to implement what I have learned into the website I have in mind.
 I went back to some of the basics I have learned before and tried to incorporate it with other forms of code to see how they work together.
