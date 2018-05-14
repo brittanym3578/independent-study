@@ -8,5 +8,5 @@
 + [Entry 4: Starting a Plan](entries/entry04-plan.md)
 + [Entry 5: Implementation](entries/entry05-plan.md)
 + [Entry 6: Starting the Project](entries/entry06-plan.md)
-+ [Entry 7:](entries/entry07-plan.md)
++ [Entry 7: Project Development](entries/entry07-plan.md)
 
