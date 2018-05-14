@@ -1,6 +1,6 @@
 # Entry 7:
 ## Project Development (Week 1) 
-<img src = "https://cdn-images-1.medium.com/max/1600/0*9VFcYCvVzZ5awVcX.gif"/>
+<img src = "https://thumbs.gfycat.com/DetailedEmbellishedDarwinsfox-size_restricted.gif"/>
 Photo Credit: https://medium.com/@lhyx/10-gifs-that-perfectly-describe-my-aiesec-volunteer-exchange-aca92d9f60ea
 
 ## Plan to the Rescue!
@@ -8,10 +8,11 @@ Before starting my project I already knew I wanted to do a website, but I did no
 on realized that I wanted to start from a base and not completely from scratch. So, I started off with an old website I made and
 deleted all the css code and changed it for the new SASS code.
 
-No CSS or SASS:
+## No CSS or SASS:
+
 <img src="../images/img-4.png"/>
 
-SASS:
+## SASS:
 <img src="../images/img-5.png"/>
 
 ## What am I doing with all this code?
