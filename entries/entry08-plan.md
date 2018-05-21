@@ -5,7 +5,7 @@ Photo Credit: https://www.wikihow.com/Animate-in-FireAlpaca
 
 ## Project Crisis
 While working on the project I realized that my partners and I were working on individual things, which is good, but we did not realize that our code began to look very disorganized.
-Every time something was added there was an error and we did not know from who it came from nor how to fix it. This is when My partners and I realized that we needed a new technique to get the project finished faster.
+Every time something was added there was an error and we did not know from who it came from nor how to fix it. This is when my partners and I realized that we needed a new technique to get the project finished faster.
 
 ## Trying to be Organized
 Now that we have realized that our code cannot be placed in random places we decided to use comments.
