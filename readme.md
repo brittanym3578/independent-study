@@ -10,4 +10,5 @@
 + [Entry 6: Starting the Project](entries/entry06-plan.md)
 + [Entry 7: Project Development](entries/entry07-plan.md)
 + [Entry 8: Slowly but Surely](entries/entry08-plan.md)
++ [Entry 9: Ready, Set, Finished!](entries/entry09-plan.md)
 
