@@ -1,5 +1,7 @@
 # Entry 9:
 ## Ready, Set, Finished!
+<img src = "http://cdn1.clevver.com/wp-content/uploads/2014/06/phew.gif"/>
+Photo Credit: http://www.clevver.com/phew/
 ## Finally Finished
 The project is finally finished, and I could not be more relieved. Working with my partners 
 was a great experience and now we are just preparing our final step to completely be ready to present our project to the class.
